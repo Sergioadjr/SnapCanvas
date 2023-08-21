@@ -1,0 +1,6 @@
+.vscode/
+node_modules
+.env
+
+# Necessário instalar npm i bcryptjs cors dotenv express express-validator jsonwebtoken mongoose multer
+# npm i --save-dev nodemon
